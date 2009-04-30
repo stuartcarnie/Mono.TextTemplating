@@ -1,0 +1,21 @@
+# .NET guff
+obj/
+bin/
+Debug/
+Release/
+_ReSharper*/
+TestResults/
+*.suo
+*.resharper.*
+*.resharper
+*.cache
+*.vspscc
+
+# MonoDevelop stuff
+MonoDevelop*/
+MonoDevelop.AspNet.*
+build/
+patches/
+
+# old school
+.svn/
